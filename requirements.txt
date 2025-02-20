@@ -1,0 +1,18 @@
+# pip install -r requirements.txt
+
+# base -------------------------------------------------
+# time
+# datetime
+
+# pyqt5
+# pyqtgraph==0.13.3
+scipy
+numpy
+# opencv-python
+scikit-learn
+# pyserial
+# pyopengl
+tensorboard
+tqdm
+# pyinstaller
+torchsummary
